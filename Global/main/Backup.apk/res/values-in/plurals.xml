@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d jam</item>
+    </plurals>
+</resources>
