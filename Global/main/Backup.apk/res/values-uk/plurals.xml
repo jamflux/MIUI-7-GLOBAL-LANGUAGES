@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d годин</item>
+        <item quantity="one">%d година</item>
+        <item quantity="few">%d години</item>
+    </plurals>
+</resources>
