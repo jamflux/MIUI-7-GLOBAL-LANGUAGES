@@ -3,7 +3,7 @@ All in One MIUI 7 Language Pack for Global Custom ROMs
 Avalaible languages by order of appareance:
 
 1.  Arabic - AR - Árabe
-2.  Persian - FA - Perso
+2.  Persian - FA - Persa
 3.  Bulgarian - BG - Búlgaro
 4.  Catalan - CA - Catalán
 5.  Czech - CS - Checo
